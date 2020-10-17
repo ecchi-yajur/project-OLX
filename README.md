@@ -28,3 +28,14 @@ In this section we will discuss our methodology for collecting classified ad dat
 
 ![alt text]( https://github.com/ecchi-yajur/project-OLX/blob/main/Images/Screenshot%20(65).png)
 
+## Collection
+
+We wrote a scheduled web-scraper that fetches information about username, date posted, title, description and price of ad and stores them in a database. The data was collected over a period of 3 days. We collected around 1,35,000 ads and divided them into 7 categories namely - services, computers, properties, books, cars, mobiles and fashion. 
+
+## Classification
+
+Classifier goes through the database and then detects phone numbers in title, description and username with the help of regular expressions and adds a Boolean attribute whether it has phone number or not. If there was a phone number then its location was also added i.e. if it was in the title, description or username. After this we manually verified whether the classifier was correctly detecting phone numbers or not.
+
+![alt text]( https://github.com/ecchi-yajur/project-OLX/blob/main/Images/table2.png)
+
+Distribution of phone numbers based on categories
