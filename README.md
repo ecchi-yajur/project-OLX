@@ -15,3 +15,16 @@ In 2017 OLX recorded a groundbreaking 58% surge in profit at ₹92.5 crores as c
 With transactions on order of tens of thousands to lakhs it is imperative that these sites must take measures to detect potential fraudulent activity. We went through OLX policies and found out that sellers must not post their phone numbers or their personal information. 
 
 ![alt text]( https://github.com/ecchi-yajur/project-OLX/blob/main/Images/Screenshot%20(61).png)
+
+But sellers find creative ways to post them. 
+
+![alt text]( https://github.com/ecchi-yajur/project-OLX/blob/main/Images/Screenshot%20(63).png)
+
+This research focusses on applying text mining techniques to discover patterns in classified ad data.
+
+## DATA
+
+In this section we will discuss our methodology for collecting classified ad data which we later use to detect presence of phone numbers. These ads will then be tagged according to presence of phone numbers. We picked OLX as our starting point as most of the ad data was already public. 
+
+![alt text]( https://github.com/ecchi-yajur/project-OLX/blob/main/Images/Screenshot%20(65).png)
+
