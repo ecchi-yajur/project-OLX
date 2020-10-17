@@ -14,4 +14,4 @@ In 2017 OLX recorded a groundbreaking 58% surge in profit at ₹92.5 crores as c
 
 With transactions on order of tens of thousands to lakhs it is imperative that these sites must take measures to detect potential fraudulent activity. We went through OLX policies and found out that sellers must not post their phone numbers or their personal information. 
 
-![alt text]( https://github.com/ecchi-yajur/project-OLX/blob/main/Images/Screenshot%20(61).png
+![alt text]( https://github.com/ecchi-yajur/project-OLX/blob/main/Images/Screenshot%20(61).png)
