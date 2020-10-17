@@ -1,0 +1,8 @@
+"Category,All_three,In Name,In Title,In Para,Name and Title,Para and Title,Para and Name"
+parsed_dataset_books.csv,0,18,32,521,2,54,17
+parsed_dataset_cars.csv,0,9,39,5227,0,30,11
+parsed_dataset_computer.csv,386,1154,78,2199,40,252,2214
+parsed_dataset_fashion.csv,0,118,32,460,0,24,10
+parsed_dataset_mobiles.csv,11,50,63,1960,1,237,44
+parsed_dataset_properties_sale.csv,25,489,91,3514,10,230,515
+parsed_dataset_services.csv,10,41,127,2114,3,261,88
